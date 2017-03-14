@@ -1,0 +1,68 @@
+#!/bin/sh
+
+# PROVIDE: LisaCoin
+# REQUIRE: LOGIN
+# KEYWORD: shutdown
+
+#
+# Add the following lines to /etc/rc.conf.local or /etc/rc.conf
+# to enable this service:
+#
+# LisaCoin_enable (bool): Set to NO by default. Set this variable to YES if you want to enable LisaCoin service.
+# LisaCoin_config (path): Set to /usr/local/etc/LisaCoin.conf by default.
+# LisaCoin_user:  The user account LisaCoin daemon runs as. It uses 'root' user by default.
+# LisaCoin_group: The group account LisaCoin daemon runs as. It uses 'wheel' group by default.
+# LisaCoin_datadir (str): Default to "/var/db/LisaCoin". Base data directory.
+
+. /etc/rc.subr
+
+name=LisaCoin
+rcvar=LisaCoin_enable
+
+: ${LisaCoin_enable:=NO}
+: ${LisaCoin_config=/usr/local/etc/LisaCoin.conf}
+: ${LisaCoin_datadir=/var/db/LisaCoin}
+: ${LisaCoin_user="root"}
+: ${LisaCoin_group="wheel"}
+
+required_files=${LisaCoin_config}
+command=/usr/local/bin/LisaCoind
+LisaCoin_chdir=${LisaCoin_datadir}
+pidfile="${LisaCoin_datadir}/LisaCoind.pid"
+stop_cmd=LisaCoin_stop
+command_args="-conf=${LisaCoin_config} -datadir=${LisaCoin_datadir} -daemon -pid=${pidfile}"
+start_precmd="${name}_prestart"
+
+LisaCoin_create_datadir()
+{
+	echo "Creating data directory"
+	eval mkdir -p ${LisaCoin_datadir}
+	[ $? -eq 0 ] && chown -R ${LisaCoin_user}:${LisaCoin_group} ${LisaCoin_datadir}
+}
+
+LisaCoin_prestart()
+{
+	if [ ! -d "${LisaCoin_datadir}/." ]; then
+		LisaCoin_create_datadir || return 1
+	fi
+}
+
+LisaCoin_requirepidfile()
+{
+	if [ ! "0`check_pidfile ${pidfile} ${command}`" -gt 1 ]; then
+		echo "${name} not running? (check $pidfile)."
+		exit 1
+	fi
+}
+
+LisaCoin_stop()
+{
+    LisaCoin_requirepidfile
+
+	echo "Stopping ${name}."
+	eval ${command} -conf=${LisaCoin_config} -datadir=${LisaCoin_datadir} stop
+	wait_for_pids ${rc_pid}
+}
+
+load_rc_config $name
+run_rc_command "$1"

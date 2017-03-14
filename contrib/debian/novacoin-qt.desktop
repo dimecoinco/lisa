@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LisaCoin
+Comment=LisaCoin P2P Cryptocurrency
+Comment[ru]=LisaCoin, P2P криптовалюта
+Comment[fr]=LisaCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LisaCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/LisaCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/LisaCoin80.xpm
+MimeType=x-scheme-handler/LisaCoin;
+Categories=Office;

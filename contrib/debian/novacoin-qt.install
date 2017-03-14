@@ -1,0 +1,5 @@
+LisaCoin-qt usr/bin
+share/pixmaps/LisaCoin32.xpm usr/share/pixmaps
+share/pixmaps/LisaCoin80.xpm usr/share/pixmaps
+debian/LisaCoin-qt.desktop usr/share/applications
+debian/LisaCoin-qt.protocol usr/share/kde4/services/

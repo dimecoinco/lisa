@@ -1,0 +1,2 @@
+debian/bin/LisaCoind usr/bin
+src/LisaCoind usr/lib/LisaCoin
