@@ -960,8 +960,12 @@ public:
     // ppcoin: entropy bit for stake modifier if chosen by modifier
     unsigned int GetStakeEntropyBit(unsigned int nHeight) const
     {
+         //
+         // //
+         // WHAT?
+         //
         // Protocol switch to support p2pool at LisaCoin block #0
-        if (nHeight >= 0 || fTestNet)
+        if (nHeight >= 0 || fTestNet) //  No idea about this snippet
         {
             // Take last bit of block hash as entropy bit
             unsigned int nEntropyBit = ((GetHash().Get64()) & 1ULL);
