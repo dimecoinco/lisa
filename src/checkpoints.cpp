@@ -22,17 +22,17 @@ namespace Checkpoints
     //    timestamp before)
     // + Contains no strange transactions
     //
-    static MapCheckpoints mapCheckpoints =
-        boost::assign::map_list_of
-        ( 0,     std::make_pair(hashGenesisBlock, 1360105017) )
-        ( 1, std::make_pair(uint256("0x000009ef3effccdebee0527cd2c96bc3e625b4a8ec3b5be111e998f5c64fa03c"), 1364674052) )
-    ;
+   // static MapCheckpoints mapCheckpoints =
+   //     boost::assign::map_list_of
+   //     ( 0,     std::make_pair(hashGenesisBlock, 1360105017) ) // + Contains no strange transactions
+   //     ( 1, std::make_pair(uint256("0x000009ef3effccdebee0527cd2c96bc3e625b4a8ec3b5be111e998f5c64fa03c"), 1364674052) ) / + Contains no strange transactions
+   // ;
 
     // TestNet has no checkpoints
-    static MapCheckpoints mapCheckpointsTestnet =
-        boost::assign::map_list_of
-        ( 0, std::make_pair(hashGenesisBlockTestNet, 1360105017) )
-        ;
+   // static MapCheckpoints mapCheckpointsTestnet =
+   //     boost::assign::map_list_of
+    //    ( 0, std::make_pair(hashGenesisBlockTestNet, 1360105017) ) // + Contains no strange transactions
+    //    ;
 
     bool CheckHardened(int nHeight, const uint256& hash)
     {
