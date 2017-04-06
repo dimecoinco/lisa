@@ -4,7 +4,7 @@ root@server:~/lisa/src# ./LisaCoind
 //
 // Hangs there like it is mining a genesis block: Ctrl C
 //
-// I wondr if .LisaCoin dir was created?
+// I wonder if .LisaCoin dir was created?
 //
 
 root@server:~/lisa/src# cd /root/.LisaCoin
