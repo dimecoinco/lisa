@@ -1,0 +1,1050 @@
+/*
+    Selection (missed out the 990s. 
+    Blocks 1516 - 1537 (below)
+*/
+
+{
+	"rpcace_version": "0.7.0",
+	"coin_name": "LisaCoin",
+	"num_blocks": 1774,
+	"num_connections": 13,
+	"current_difficulty_pow": {
+		"proof-of-work": 1917.40024045,
+		"proof-of-stake": 63.92781478
+	},
+	"hashrate_mhps": "5903.35",
+	"blocks": [
+  
+      /*
+    Blocks 1516 - 1537 (Removed normal transactions)
+    */ 
+  
+  
+		{
+			"hash": "fffac79e29fbfea6cf17317ec91a3fef392e32172aa23c58c5d23b8da4a8e09d",
+			"height": 1537,
+			"difficulty": 71.17204867,
+			"time": 1491286563,
+			"date": "06:16:03 2017-Apr-04",
+			"tx_count": 2,
+			"total_out": 2725382.5626027
+		},
+		{
+			"hash": "5727243a47e3d13b1e1ffd272a0a5b8990b772a3a08f92f1cfa3e38aeb8425bd",
+			"height": 1534,
+			"difficulty": 72.0171018,
+			"time": 1491285300,
+			"date": "05:55:00 2017-Apr-04",
+			"tx_count": 2,
+			"total_out": 2725316.1131507
+		},
+		{
+			"hash": "9257e74ed5b73e17e99fa226dd59222ff69cfbb2de94db2a57662443dcf1bafc",
+			"height": 1533,
+			"difficulty": 71.74700109,
+			"time": 1491284643,
+			"date": "05:44:03 2017-Apr-04",
+			"tx_count": 2,
+			"total_out": 2725281.2491781
+		},
+		{
+			"hash": "40de0d9f4e9566b74afc6189ee800eaf51097ec1e2a53fc21c0a81e8883b668e",
+			"height": 1532,
+			"difficulty": 66.35090883,
+			"time": 1491284061,
+			"date": "05:34:21 2017-Apr-04",
+			"tx_count": 2,
+			"total_out": 2725258.3080822
+		},
+		{
+			"hash": "d0a116cab940411da09be04a1bc61514e308823921937737abc9bc96faed2387",
+			"height": 1530,
+			"difficulty": 60.53124166,
+			"time": 1491283822,
+			"date": "05:30:22 2017-Apr-04",
+			"tx_count": 3,
+			"total_out": 2729160.497354
+		},
+		{
+			"hash": "bbfe741969d122e012ff101ff0468f5fd7d0c310dbde34743340f719cf2167a2",
+			"height": 1529,
+			"difficulty": 56.11736609,
+			"time": 1491283643,
+			"date": "05:27:23 2017-Apr-04",
+			"tx_count": 2,
+			"total_out": 2725239.000274
+		},
+		{
+			"hash": "8eacfa60a044c1489ee10ccca3235a3501f5c94b00e85ddb34178888235ab86f",
+			"height": 1528,
+			"difficulty": 59.76488693,
+			"time": 1491283393,
+			"date": "05:23:13 2017-Apr-04",
+			"tx_count": 2,
+			"total_out": 2725226.2904109
+		},
+		{
+			"hash": "b95ddd3d981d0ef44143a6590b61c8083cf4d2302778020a5cfa84a60b2b27b7",
+			"height": 1526,
+			"difficulty": 74.70604213,
+			"time": 1491282481,
+			"date": "05:08:01 2017-Apr-04",
+			"tx_count": 2,
+			"total_out": 2725172.9008219
+		},
+		{
+			"hash": "dca76c9a91aec8b4110e804222eb4997aba1972562fbb493975b5061d5f31908",
+			"height": 1524,
+			"difficulty": 67.68669663,
+			"time": 1491280070,
+			"date": "04:27:50 2017-Apr-04",
+			"tx_count": 2,
+			"total_out": 2725056.9528767
+		},
+		{
+			"hash": "ec351a0d1f1aec316ba638e93a78a1668a79612eac7138ef7d0e639ced40efbc",
+			"height": 1523,
+			"difficulty": 84.60820011,
+			"time": 1491279921,
+			"date": "04:25:21 2017-Apr-04",
+			"tx_count": 3,
+			"total_out": 2728971.2466791
+		},
+		{
+			"hash": "404f68ded01e4b5061b4655fc0cb3f04ff9ed3fc6a91ef7e33e6b5f22329ae02",
+			"height": 1521,
+			"difficulty": 85.17217746,
+			"time": 1491276543,
+			"date": "03:29:03 2017-Apr-04",
+			"tx_count": 2,
+			"total_out": 2724867.3505479
+		},
+		{
+			"hash": "dfc78c4b1684a2375efaa56ca2baadddd13f635372761a1388321d08f9f56b03",
+			"height": 1517,
+			"difficulty": 114.58263328,
+			"time": 1491273987,
+			"date": "02:46:27 2017-Apr-04",
+			"tx_count": 3,
+			"total_out": 2726694.7568261
+		},
+		{
+			"hash": "9afb4e1b7c528127edb54541fbeafa5cb145c3827e6200a63b9f9968de61367f",
+			"height": 1516,
+			"difficulty": 112.4815458,
+			"time": 1491273021,
+			"date": "02:30:21 2017-Apr-04",
+			"tx_count": 2,
+			"total_out": 2724692.2839726
+		},
+    
+     /*
+    Blocks 1155 - 1219
+    */
+    
+    
+		{
+			"hash": "0a8f668a454f7af7cb6ff7a9d64c5fcafd6101744d58294e056927fcb4166dcb",
+			"height": 1219,
+			"difficulty": 22.10697339,
+			"time": 1490966512,
+			"date": "13:21:52 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5417798.8482192
+		},
+		{
+			"hash": "ef49367de141144684a2ec78ad8eb9ff11a90d3b2bdd98c0647e703c1dc4d777",
+			"height": 1218,
+			"difficulty": 22.46618414,
+			"time": 1490958089,
+			"date": "11:01:29 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5416935.2561644
+		},
+		{
+			"hash": "dc94c71186aed068a79b00e659cabd92834f09af7be0529aaf38a89e8723a185",
+			"height": 1217,
+			"difficulty": 26.8611007,
+			"time": 1490957411,
+			"date": "10:50:11 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5416865.5810959
+		},
+		{
+			"hash": "479258e1b9fb0446c4596833ed521b33159c016764ff8d9657a6c0e6f7d5a07f",
+			"height": 1216,
+			"difficulty": 33.576349,
+			"time": 1490955872,
+			"date": "10:24:32 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5416707.3128767
+		},
+		{
+			"hash": "07d1a927a73bf59dea977250cc08a8551b8e7dfc728a94146063beac20a868ca",
+			"height": 1215,
+			"difficulty": 29.38629664,
+			"time": 1490945912,
+			"date": "07:38:32 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5415685.5542466
+		},
+		{
+			"hash": "6968de6998ef0bed9308948ff136b523229621896dc270372a14d22c8fc2e582",
+			"height": 1214,
+			"difficulty": 29.13526562,
+			"time": 1490945912,
+			"date": "07:38:32 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5415685.5542466
+		},
+		{
+			"hash": "8870c2f510cc8e711c3cfcd373c2fc7891a98e2ee61a59b65871232e457bc6cd",
+			"height": 1213,
+			"difficulty": 34.61629406,
+			"time": 1490945353,
+			"date": "07:29:13 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5415628.7446575
+		},
+		{
+			"hash": "572bc6f644bce094e49304b45f50d2802a552d9153d0c2d861155d77c8b0b6e4",
+			"height": 1212,
+			"difficulty": 30.29644611,
+			"time": 1490943850,
+			"date": "07:04:10 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5415474.0275342
+		},
+		{
+			"hash": "8efe733a071c059c186178243dc1acdb03208d0cdcb82c2529db614517023afc",
+			"height": 1211,
+			"difficulty": 28.15672611,
+			"time": 1490943850,
+			"date": "07:04:10 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5415474.0316438
+		},
+		{
+			"hash": "f5c55e1a4adf3ea483640a96898ee630e571b8d5bb2387786730c51e7c30fd60",
+			"height": 1210,
+			"difficulty": 24.64297203,
+			"time": 1490943589,
+			"date": "06:59:49 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5415448.1590411
+		},
+		{
+			"hash": "a26949f8f000963daafd577944f2099b6731abe72cdc3be07d0455f57b24dfaa",
+			"height": 1209,
+			"difficulty": 30.80370372,
+			"time": 1490943589,
+			"date": "06:59:49 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5415448.1590411
+		},
+		{
+			"hash": "f16927caab245e890f14b89d3c48fd820797577796a43096a25ed4313e78763b",
+			"height": 1208,
+			"difficulty": 38.50461198,
+			"time": 1490939575,
+			"date": "05:52:55 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5415035.7352055
+		},
+		{
+			"hash": "4008a03c83ec1494e9918eda036dbfc0152575654b7b8a79c4795f7411c4ebee",
+			"height": 1207,
+			"difficulty": 48.13068213,
+			"time": 1490937265,
+			"date": "05:14:25 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5414799.3645205
+		},
+		{
+			"hash": "b576a9667e2edd9c523c158c62c65a77434a0efac29b030d3c11bf693f67ac8e",
+			"height": 1206,
+			"difficulty": 45.323046,
+			"time": 1490934573,
+			"date": "04:29:33 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5414522.3415068
+		},
+		{
+			"hash": "97fdcbd130038da20b5dcdfd443f37f2a3568854ae29bdbe198f6b16975cff47",
+			"height": 1205,
+			"difficulty": 40.2335793,
+			"time": 1490934253,
+			"date": "04:24:13 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5414489.5332877
+		},
+		{
+			"hash": "1f5e206c304bf78083fe2cf33e4d9379b86df6ce4f9045789b646282e18af1ca",
+			"height": 1204,
+			"difficulty": 39.92337511,
+			"time": 1490934192,
+			"date": "04:23:12 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5414485.1719178
+		},
+		{
+			"hash": "7414f3e8284c4d0498744c6c917ad049993f260a89a22561a7235fe378a2fb58",
+			"height": 1203,
+			"difficulty": 35.97257184,
+			"time": 1490933629,
+			"date": "04:13:49 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5414425.5652055
+		},
+		{
+			"hash": "40a24370e6ec70ba7f9d2fb83bc35d786ebddad13fb5774f7ea4414b79d7f75e",
+			"height": 1202,
+			"difficulty": 33.35704671,
+			"time": 1490933504,
+			"date": "04:11:44 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5414412.710411
+		},
+		{
+			"hash": "8ba6573482660f580f572785932571a937e594bc744437abd1a65deb1b61765a",
+			"height": 1201,
+			"difficulty": 38.83312849,
+			"time": 1490933253,
+			"date": "04:07:33 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5414388.5467123
+		},
+		{
+			"hash": "6db4fdaaa09597495b2b3af65fd3d28c1daf986812085adb05195303925d7082",
+			"height": 1200,
+			"difficulty": 34.90124777,
+			"time": 1490931865,
+			"date": "03:44:25 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5414244.5172603
+		},
+		{
+			"hash": "bfea11afac9a7686bcbfb0736b8261db5da171ad3aab31a6c11b2fa87be0759d",
+			"height": 1199,
+			"difficulty": 31.35294338,
+			"time": 1490931751,
+			"date": "03:42:31 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5414234.1682192
+		},
+		{
+			"hash": "e49be4f87ec73d0d2ea638710399eea97e18c6e2632f9e7e6075cc1d3e0bc87e",
+			"height": 1198,
+			"difficulty": 36.17345707,
+			"time": 1490931639,
+			"date": "03:40:39 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5414221.3527397
+		},
+		{
+			"hash": "fb882d444887e4ce3e1d01cdf0b15dde279a1bae03fb559cd8683cca7391c49e",
+			"height": 1197,
+			"difficulty": 45.21677259,
+			"time": 1490930301,
+			"date": "03:18:21 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5414084.6604109
+		},
+		{
+			"hash": "e89b5cb213fd87f41da78fbcedb3fe296dcdff434d262f08c00585410aae9de0",
+			"height": 1196,
+			"difficulty": 52.51727937,
+			"time": 1490927575,
+			"date": "02:32:55 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413806.3286301
+		},
+		{
+			"hash": "1c055f7e16baa9ab1ab98549f06016910756199f0690bd1d3aef95ba5d858181",
+			"height": 1195,
+			"difficulty": 51.98112477,
+			"time": 1490926200,
+			"date": "02:10:00 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413663.3738356
+		},
+		{
+			"hash": "cedf695d13e4b144dff778f744ce3e705afb7caeb411efa6ee2da786ae356031",
+			"height": 1194,
+			"difficulty": 45.65668551,
+			"time": 1490925649,
+			"date": "02:00:49 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413606.8991781
+		},
+		{
+			"hash": "a59fc7665c970e1e3bd5460c139364ca6f08be63e416554fbdb71506f9a4fa52",
+			"height": 1193,
+			"difficulty": 45.79927112,
+			"time": 1490925633,
+			"date": "02:00:33 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413605.2127397
+		},
+		{
+			"hash": "cd7cd5362b161f47281e8b8f62e07d7258fb7b2c98fd7a26d86d01c4e37909fb",
+			"height": 1192,
+			"difficulty": 40.99981427,
+			"time": 1490925018,
+			"date": "01:50:18 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413542.2123288
+		},
+		{
+			"hash": "c60604e50629c522f8a71653e19cfe883a2d6a2ab37729ec325e2251350c3f13",
+			"height": 1191,
+			"difficulty": 39.41954887,
+			"time": 1490924921,
+			"date": "01:48:41 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413532.2678082
+		},
+		{
+			"hash": "0f6d9d570c62040582478f9373115fe2fe94f9523a980b6d01d18760eccdc75e",
+			"height": 1190,
+			"difficulty": 41.07841817,
+			"time": 1490924506,
+			"date": "01:41:46 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413489.6087671
+		},
+		{
+			"hash": "d6aa571169260116a3df75b434bcba461a9866aff3dafea05337def84ffaf1c5",
+			"height": 1189,
+			"difficulty": 37.89476537,
+			"time": 1490923704,
+			"date": "01:28:24 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413408.0660274
+		},
+		{
+			"hash": "ca8c41d9db56da1a960e89c444e9398c795f8dbd73b3b8b391e6143daecdc09c",
+			"height": 1188,
+			"difficulty": 36.9000132,
+			"time": 1490923476,
+			"date": "01:24:36 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413383.9416438
+		},
+		{
+			"hash": "5570f313b681dd8221ccd8312b0cbe60616389e3a1cb9c7c23e54fb4c8c72110",
+			"height": 1187,
+			"difficulty": 38.22223032,
+			"time": 1490923002,
+			"date": "01:16:42 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413335.4571233
+		},
+		{
+			"hash": "bcdf025835c1a467d84593966c44c610b9383be0f994f2cddadcc23588bc4adc",
+			"height": 1186,
+			"difficulty": 34.04166903,
+			"time": 1490922230,
+			"date": "01:03:50 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413256.4163014
+		},
+		{
+			"hash": "bdaf485ae7ceebde7604554a0f5917af901672f07e4408660502e34bc87a7112",
+			"height": 1185,
+			"difficulty": 39.26841714,
+			"time": 1490922155,
+			"date": "01:02:35 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413248.4405479
+		},
+		{
+			"hash": "8ad0373216c8a3501140c509927004cdb1307962f2af1280a07c54cae2a617a5",
+			"height": 1184,
+			"difficulty": 42.30346003,
+			"time": 1490920818,
+			"date": "00:40:18 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413111.280137
+		},
+		{
+			"hash": "7f35e1abd5589eda4471ba9926c5f2fbceb4913df55d10c75416782a00d393c1",
+			"height": 1183,
+			"difficulty": 45.3791932,
+			"time": 1490919847,
+			"date": "00:24:07 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5413011.6564383
+		},
+		{
+			"hash": "b50042780b31aad6cc04e25840db9fc6461222b02bae6dbe31f56da69f7c1a41",
+			"height": 1182,
+			"difficulty": 43.17638097,
+			"time": 1490918898,
+			"date": "00:08:18 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5412914.3787671
+		},
+		{
+			"hash": "9ccc5d0a27845b78cdbbf49d1f8b7ca401d405468ef9b1a51d5ecae8d525b456",
+			"height": 1181,
+			"difficulty": 53.97037204,
+			"time": 1490918531,
+			"date": "00:02:11 2017-Mar-31",
+			"tx_count": 2,
+			"total_out": 5412876.6561644
+		},
+		{
+			"hash": "c46d635f4cd81b86dd5c009a7e585dcb35fcedf0784d08ddc22865cf3a31600b",
+			"height": 1180,
+			"difficulty": 49.11302434,
+			"time": 1490916185,
+			"date": "23:23:05 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5412637.5542466
+		},
+		{
+			"hash": "785b37b886665a9f31ff24359b0eccf79fa726d5b21c64d52c989d5cf568d2d7",
+			"height": 1179,
+			"difficulty": 46.32983541,
+			"time": 1490916017,
+			"date": "23:20:17 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5412620.2168493
+		},
+		{
+			"hash": "a84cea0a04676f77bea092e48e5e7d43111a834e7ca81aaf161f07260de03e88",
+			"height": 1178,
+			"difficulty": 48.53040208,
+			"time": 1490915689,
+			"date": "23:14:49 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5412586.5556164
+		},
+		{
+			"hash": "e55d28aeeec5223068ba2b5fe9607f35b99a4e2bc039b1c7ee12ce1787bf9720",
+			"height": 1177,
+			"difficulty": 51.93751509,
+			"time": 1490914861,
+			"date": "23:01:01 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5412500.1735616
+		},
+		{
+			"hash": "91d01e6e9044d39161c86bb20d849fbf0135a723379cf764de5ba58661ebf2fc",
+			"height": 1176,
+			"difficulty": 64.92179337,
+			"time": 1490913924,
+			"date": "22:45:24 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5412404.2967123
+		},
+		{
+			"hash": "eae5420acc25545216a576637a4a6a3e493168f35e7131addcb61c412923eb7c",
+			"height": 1175,
+			"difficulty": 63.93439249,
+			"time": 1490912109,
+			"date": "22:15:09 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5412217.8486301
+		},
+		{
+			"hash": "630963dd66f7cf4731af23c7180a43491b7cc0e91cfacc9b18661a7b36bb1393",
+			"height": 1174,
+			"difficulty": 64.00097659,
+			"time": 1490911582,
+			"date": "22:06:22 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5412163.779863
+		},
+		{
+			"hash": "70cb2855531888f5f349657da53fdadff25eceef0cf6878add44ccb8c74367ea",
+			"height": 1173,
+			"difficulty": 80.00114444,
+			"time": 1490910977,
+			"date": "21:56:17 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5412101.7210959
+		},
+		{
+			"hash": "7b8d4d71da6bfb4a3f39961268c295e3d81539393b92139320e219bf9aa62fbb",
+			"height": 1172,
+			"difficulty": 94.53459477,
+			"time": 1490908971,
+			"date": "21:22:51 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411897.5620548
+		},
+		{
+			"hash": "ea94719c7c276ff0d4a2944e44f9ad50bf3c5d562c7ad70c9be2bc2387e178af",
+			"height": 1171,
+			"difficulty": 106.60702031,
+			"time": 1490907499,
+			"date": "20:58:19 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411744.9186301
+		},
+		{
+			"hash": "743e823057aece046902265cbfbb8a7530d721d1850159591046ec914add2e92",
+			"height": 1170,
+			"difficulty": 93.30278291,
+			"time": 1490906286,
+			"date": "20:38:06 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411620.5023288
+		},
+		{
+			"hash": "7a7585e06f08ace9a44df573e8dbd9e8e1903d4905075784b00cb652db2cfa95",
+			"height": 1169,
+			"difficulty": 81.65917907,
+			"time": 1490906286,
+			"date": "20:38:06 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411620.5023288
+		},
+		{
+			"hash": "c4ea4db167347c3523652053c14143668b4efa42becd07f435399344d1817cdf",
+			"height": 1168,
+			"difficulty": 76.35122466,
+			"time": 1490906286,
+			"date": "20:38:06 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411620.5023288
+		},
+		{
+			"hash": "afbd6d1f77df85b93c59669396608a12f7bd531b787cd7687d285c0f3ad10f13",
+			"height": 1167,
+			"difficulty": 75.92140394,
+			"time": 1490905998,
+			"date": "20:33:18 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411590.9768493
+		},
+		{
+			"hash": "c584b42260e368da1f7c4d2d72d0b47ba1a5f815033c2d53b4905edb13ba2f72",
+			"height": 1166,
+			"difficulty": 78.32527218,
+			"time": 1490905425,
+			"date": "20:23:45 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411532.5705479
+		},
+		{
+			"hash": "56c9d473898bf18d5be652f1720065ff57a82daf7d7c1901f5ee5026e4d1bee4",
+			"height": 1165,
+			"difficulty": 75.19220513,
+			"time": 1490904673,
+			"date": "20:11:13 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411455.7382192
+		},
+		{
+			"hash": "4a8527ee7ae5feea8c3066d1ddfdb1dc551664cf5c7664728281c50cfb02f73c",
+			"height": 1164,
+			"difficulty": 71.80841912,
+			"time": 1490904265,
+			"date": "20:04:25 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411413.619452
+		},
+		{
+			"hash": "3da0e15d634f2852637d75bf59963046d086fe51c04adac8214e4e45f3357e94",
+			"height": 1163,
+			"difficulty": 68.00854517,
+			"time": 1490903881,
+			"date": "19:58:01 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411373.76
+		},
+		{
+			"hash": "5365c4ba789e68279dd08d5a81c706c3747868a3619bca38d1bec548f88a0a1a",
+			"height": 1162,
+			"difficulty": 59.52147135,
+			"time": 1490903535,
+			"date": "19:52:15 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411338.2632877
+		},
+		{
+			"hash": "3be9e1de5484d295529858c92ae333c44d757d742144582a5351ab57675ef343",
+			"height": 1161,
+			"difficulty": 56.22286789,
+			"time": 1490903535,
+			"date": "19:52:15 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411338.2632877
+		},
+		{
+			"hash": "6cb86405a2b5635e11e45243ee2f5f4e36ac43ef07ee97a540d28bbd4316bc77",
+			"height": 1160,
+			"difficulty": 59.22123032,
+			"time": 1490903201,
+			"date": "19:46:41 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411304.0130137
+		},
+		{
+			"hash": "55722d649f11b8efaf81da20fdee0a1349bbde750487b4e369256c577b1e1929",
+			"height": 1159,
+			"difficulty": 56.53147871,
+			"time": 1490902345,
+			"date": "19:32:25 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411216.5104109
+		},
+		{
+			"hash": "11ded9069a800355fa1afbf23b84180385752fc0e5a5c9e6f734dff4b2b8387a",
+			"height": 1158,
+			"difficulty": 66.58924298,
+			"time": 1490901963,
+			"date": "19:26:03 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411177.1965753
+		},
+		{
+			"hash": "94ef11787a41996d9da05f095975f2b96f1122d1607398f65b3c778f9aaf3eb2",
+			"height": 1157,
+			"difficulty": 70.18209656,
+			"time": 1490900509,
+			"date": "19:01:49 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5411027.8569863
+		},
+		{
+			"hash": "2f2116bfe09045e78bb490c61563e41207b5808f5ec15b50d6b233fd85264a90",
+			"height": 1156,
+			"difficulty": 62.50590523,
+			"time": 1490899650,
+			"date": "18:47:30 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5410940.2345205
+		},
+		{
+			"hash": "3a36e41f69883d364b1ffaaaffa92f107e3f270abfd06e5b99ef7a0fba05251a",
+			"height": 1155,
+			"difficulty": 78.13230877,
+			"time": 1490899575,
+			"date": "18:46:15 2017-Mar-30",
+			"tx_count": 2,
+			"total_out": 5410932.8587671
+		},
+    
+    /*
+    Blocks 940 - 971
+    */
+    
+    
+		{
+			"hash": "51ea714f4b2e030ec0861d6845cff8c48287735182c3d42b80cd170277e608d2",
+			"height": 971,
+			"difficulty": 0.19673799,
+			"time": 1490584803,
+			"date": "03:20:03 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514693.868082
+		},
+		{
+			"hash": "df5af9de243dea565cf9797a1a69b5e0c6d092fadb25c7a4aea6c6a3b7326af3",
+			"height": 970,
+			"difficulty": 0.17374395,
+			"time": 1490584682,
+			"date": "03:18:02 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514644.465616
+		},
+		{
+			"hash": "0d3b92847e3238616f859085395ba2007e5f784b53c93f923eb93dfb6428bd2a",
+			"height": 969,
+			"difficulty": 0.15278574,
+			"time": 1490584643,
+			"date": "03:17:23 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514628.556164
+		},
+		{
+			"hash": "e3bfc0d360ac1cc5046469ebbc7fa68f94a550a0e99a07ad6cfb5e7faff66ff6",
+			"height": 968,
+			"difficulty": 0.13387823,
+			"time": 1490584622,
+			"date": "03:17:02 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514619.954247
+		},
+		{
+			"hash": "60221b74ceaa6e754c5fc368a86cac61a8b3757364866d7f3f50407778cf31eb",
+			"height": 967,
+			"difficulty": 0.11784052,
+			"time": 1490584616,
+			"date": "03:16:56 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514617.509726
+		},
+		{
+			"hash": "075e00192d604fb6478b2918bba80b36968d3ad2c3d14687beb114e45c423b6b",
+			"height": 966,
+			"difficulty": 0.10313489,
+			"time": 1490584591,
+			"date": "03:16:31 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514607.298219
+		},
+		{
+			"hash": "d594e61b19862e4ee2e187814fd89c1aa7984886b8d3fa9a18f3063ac6324b17",
+			"height": 965,
+			"difficulty": 0.09026449,
+			"time": 1490584598,
+			"date": "03:16:38 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514610.163014
+		},
+		{
+			"hash": "0be3f0a00e407a144628167225ea4e6d8b3c69c6dbe05308df04b75b34fd06d3",
+			"height": 964,
+			"difficulty": 0.07916939,
+			"time": 1490584598,
+			"date": "03:16:38 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514610.167397
+		},
+		{
+			"hash": "2b286ba252e7f34fbdf5a71abbeed0a98bcd875462af2c4483e773e7a51726f4",
+			"height": 963,
+			"difficulty": 0.06952054,
+			"time": 1490584588,
+			"date": "03:16:28 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514606.094384
+		},
+		{
+			"hash": "5ad336512b6d8d01f6c357bf25b318f5f6b409f0f4ba02d0d20a6b9dd00100dc",
+			"height": 962,
+			"difficulty": 0.06084495,
+			"time": 1490584573,
+			"date": "03:16:13 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514599.953836
+		},
+		{
+			"hash": "d940f7ffff5c7d3176ef1288df235266fa030f7105a3f5d1f57eebe89c0bb76c",
+			"height": 961,
+			"difficulty": 0.05331538,
+			"time": 1490584593,
+			"date": "03:16:33 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514608.129589
+		},
+		{
+			"hash": "89fe64b4ac759571594ab4b5383a06504824749d11ba0c72b706ebf6d8b37b1e",
+			"height": 960,
+			"difficulty": 0.04682868,
+			"time": 1490584587,
+			"date": "03:16:27 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514605.676164
+		},
+		{
+			"hash": "4263c296d37478cb9ac34cb52369e01294e62a49e3d78ab432d7d21284f2fcb8",
+			"height": 959,
+			"difficulty": 0.04098484,
+			"time": 1490584571,
+			"date": "03:16:11 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514599.129726
+		},
+		{
+			"hash": "2a85a869838632f4b5ae16d5ecb0df48e6f5871646f1ab07a7f658c7e84bdaf0",
+			"height": 958,
+			"difficulty": 0.03590441,
+			"time": 1490584584,
+			"date": "03:16:24 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514604.440137
+		},
+		{
+			"hash": "dfe7fbd1c09194a921630b330c85920a9f61be96998876d44b997c43d8fd15eb",
+			"height": 957,
+			"difficulty": 0.03142383,
+			"time": 1490584579,
+			"date": "03:16:19 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514602.415616
+		},
+		{
+			"hash": "58b4a2bd10ba7bed1c8fa121f44a23dbb7cbd2a670ad5c5072990d37fa6bf516",
+			"height": 956,
+			"difficulty": 0.0276006,
+			"time": 1490584578,
+			"date": "03:16:18 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514601.989315
+		},
+		{
+			"hash": "2c9a2def64941d5190cbd95de40b44f35f5c299d5230da12950f85d1450271ed",
+			"height": 955,
+			"difficulty": 0.02415627,
+			"time": 1490584562,
+			"date": "03:16:02 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514595.472192
+		},
+		{
+			"hash": "21bb0f26c524c187b5d28e3d712b94ad1eeccb9a1073d24a1f85eac898d313a8",
+			"height": 954,
+			"difficulty": 0.02114177,
+			"time": 1490584562,
+			"date": "03:16:02 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514595.459589
+		},
+		{
+			"hash": "4f228fbf266720d80df5bdf4fa2257343a7c186b3f4aa1ebcb3116f6d4689ffc",
+			"height": 953,
+			"difficulty": 0.01852547,
+			"time": 1490584569,
+			"date": "03:16:09 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514598.325753
+		},
+		{
+			"hash": "13cb646a798ce39eb731b2abc0fd33f18ea43abcfdfaeff2d9fb917973a363ba",
+			"height": 952,
+			"difficulty": 0.01621364,
+			"time": 1490584563,
+			"date": "03:16:03 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514595.874795
+		},
+		{
+			"hash": "06b3b9eb92af7d1280d36cc3b65f7cf9d7c108331687fe58504d6a25aba4a35b",
+			"height": 951,
+			"difficulty": 0.01420383,
+			"time": 1490584567,
+			"date": "03:16:07 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514597.506027
+		},
+		{
+			"hash": "416070dd0430535f1fde137b42eb5f0fa2ad912d33b17926619503590e62e918",
+			"height": 950,
+			"difficulty": 0.01243427,
+			"time": 1490584562,
+			"date": "03:16:02 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514595.46274
+		},
+		{
+			"hash": "7031263e36ab56cec8adb60ee77c577f4814a8534e10c14e042f4921d072865d",
+			"height": 949,
+			"difficulty": 0.01088257,
+			"time": 1490584560,
+			"date": "03:16:00 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514594.64726
+		},
+		{
+			"hash": "c29d6c15c64ddc6276762f2e7c92454d466b21b9188b414b34e84df4366ce0cd",
+			"height": 948,
+			"difficulty": 0.00953359,
+			"time": 1490584561,
+			"date": "03:16:01 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514595.052192
+		},
+		{
+			"hash": "5ccf1ac1db7468caae1eaa478c85c59f00973c40bf8524ed63868fc4ba2ea801",
+			"height": 947,
+			"difficulty": 0.00834387,
+			"time": 1490584556,
+			"date": "03:15:56 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514593.023014
+		},
+		{
+			"hash": "c978bc8c5a288e454a3f8761eb39f738e0eabf5296ccb374880dd9939a2fbe43",
+			"height": 946,
+			"difficulty": 0.00730437,
+			"time": 1490584558,
+			"date": "03:15:58 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514593.825479
+		},
+		{
+			"hash": "c4535411e65208d03b88d1021ae387e14316356f15aa67c55af20f8db0b6a854",
+			"height": 945,
+			"difficulty": 0.00639431,
+			"time": 1490584556,
+			"date": "03:15:56 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514593.015479
+		},
+		{
+			"hash": "7a572c74c7e07ae58d59c704460e75cde167ef854d83312c49ed87393f8c93d9",
+			"height": 944,
+			"difficulty": 0.00560032,
+			"time": 1490584554,
+			"date": "03:15:54 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514592.185479
+		},
+		{
+			"hash": "ffa3e9ec9c88f9971efc5314e6318529828cee3ac7c546eba91901761a5263b2",
+			"height": 943,
+			"difficulty": 0.00490142,
+			"time": 1490584550,
+			"date": "03:15:50 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514590.564384
+		},
+		{
+			"hash": "09e4edebd2ed8d6a7823c1cca7cb67597c3096f87fbaa0a9d407515af49b65a8",
+			"height": 942,
+			"difficulty": 0.0042907,
+			"time": 1490584549,
+			"date": "03:15:49 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514590.143014
+		},
+		{
+			"hash": "739181ac8fe7c42aefda97c794da5e16e6a8c26b091cd9a2ca102e155037325d",
+			"height": 941,
+			"difficulty": 0.00375521,
+			"time": 1490584547,
+			"date": "03:15:47 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514589.340822
+		},
+		{
+			"hash": "e45d59c732ece61645ad5d5ad0f57dd3e052208d32923d2a725a50279bce380e",
+			"height": 940,
+			"difficulty": 0.00328655,
+			"time": 1490584546,
+			"date": "03:15:46 2017-Mar-27",
+			"tx_count": 2,
+			"total_out": 21514588.921233
+		},
+    
+    /*
+    Genesis and Premine
+    Blocks 0 and 1
+    */
+    
+		{
+			"hash": "000009ef3effccdebee0527cd2c96bc3e625b4a8ec3b5be111e998f5c64fa03c",
+			"height": 1,
+			"difficulty": 0.00024414,
+			"time": 1488253036,
+			"date": "03:37:16 2017-Feb-28",
+			"tx_count": 1,
+			"total_out": 660000000
+		},
+		{
+			"hash": "000007402c04e65cf54cfe68233dc33ebd0fc476e6ec8fe242370eab2ead7477",
+			"height": 0,
+			"difficulty": 0.00024414,
+			"time": 1488230695,
+			"date": "21:24:55 2017-Feb-27",
+			"tx_count": 1,
+			"total_out": 0
+		}
+	]
+}
